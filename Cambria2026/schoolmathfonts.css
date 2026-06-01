@@ -2,3 +2,7 @@
     font-family: 'Cambria Math';
     src: url('./Cambria2026.ttf');
 }
+
+math {
+    font-family: 'Cambria Math', math;
+}
