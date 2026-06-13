@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Latin Modern Math';
+    src: url('./LatinModern2026.otf');
+}
+
+math {
+    font-family: 'Latin Modern Math', math;
+}
