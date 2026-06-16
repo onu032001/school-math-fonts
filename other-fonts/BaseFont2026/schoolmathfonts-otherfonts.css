@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BaseFont2026';
+    src: url('./BaseFont2026.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'BaseFont2026';
+    src: url('./BaseFont2026-Bold.ttf');
+    font-weight: 700;
+}
+:not(math, math *) {
+    font-family: 'BaseFont2026' !important;
+}
