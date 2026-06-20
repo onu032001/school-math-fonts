@@ -8,6 +8,3 @@
     src: url('https://onu032001.github.io/school-math-fonts/other-fonts/BaseFont2026/BaseFont2026-Bold.ttf');
     font-weight: 700;
 }
-:not(math, math *) {
-    font-family: 'BaseFont2026' !important;
-}
