@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MonoFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/MonoFont2026/MonoFont2026.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'MonoFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/MonoFont2026/MonoFont2026-Bold.ttf');
+    font-weight: 700;
+}
+:not(math, math *) {
+    font-family: 'MonoFont2026' !important;
+}
