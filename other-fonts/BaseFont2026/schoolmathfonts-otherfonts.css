@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: 'BaseFont2026';
-    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/BaseFont2026/BaseFont2026.ttf') format('ttf');
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/BaseFont2026/BaseFont2026-Bold.ttf') format('ttf');
     font-weight: 700;
 }
 :not(math, math *) {
