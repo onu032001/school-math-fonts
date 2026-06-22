@@ -1,4 +1,38 @@
-@import url('../BaseFont2026/schoolmathfonts-otherfonts.css');
-@import url('../SerifFont2026/schoolmathfonts-otherfonts.css');
-@import url('../MonoFont2026/schoolmathfonts-otherfonts.css');
-@import url('../../TeXGyre2026/schoolmathfonts.css');
+@font-face {
+    font-family: 'BaseFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/BaseFont2026/BaseFont2026.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'BaseFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/BaseFont2026/BaseFont2026-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'SerifFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/SerifFont2026/SerifFont2026.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SerifFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/SerifFont2026/SerifFont2026-Bold.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'SerifFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/SerifFont2026/SerifFont2026-Italic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SerifFont2026';
+    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/SerifFont2026/SerifFont2026-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'TeXGyre2026';
+    src: url('https://onu032001.github.io/school-math-fonts/TeXGyre2026/TeXGyre2026.otf');
+}
