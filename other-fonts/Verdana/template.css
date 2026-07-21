@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Verdana';
-    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/Verdana/Verdana.ttf');
+    font-family: "Verdana";
+    src: url("https://onu032001.github.io/school-math-fonts/other-fonts/Verdana/Verdana.ttf");
     font-weight: 400;
 }
 @font-face {
-    font-family: 'Verdana';
-    src: url('https://onu032001.github.io/school-math-fonts/other-fonts/Verdana/Verdana-Bold.ttf');
+    font-family: "Verdana";
+    src: url("https://onu032001.github.io/school-math-fonts/other-fonts/Verdana/Verdana-Bold.ttf");
     font-weight: 700;
 }
